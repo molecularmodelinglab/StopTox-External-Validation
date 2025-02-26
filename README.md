@@ -28,7 +28,7 @@ The performance of STopTox was assessed using the following metrics:
 
 - **Correct Classification Rate (CCR)**:
   ```math
-  CCR = \frac{TP + TN}{TP + TN + FP + FN}
+  CCR = \frac{SE + SP}{2}
   ```
 
 - **Sensitivity (SE)**:

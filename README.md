@@ -27,29 +27,19 @@ External validation using independent datasets supports that STopTox can serve a
 The performance of STopTox was assessed using the following metrics:
 
 - **Correct Classification Rate (CCR)**:
-  $$
-  CCR = \frac{TP + TN}{TP + TN + FP + FN}
-  $$
+  ![CCR](https://render.githubusercontent.com/render/math?math=CCR%20%3D%20%5Cfrac%7BTP%20%2B%20TN%7D%7BTP%20%2B%20TN%20%2B%20FP%20%2B%20FN%7D)
 
 - **Sensitivity (SE)**:
-  $$
-  SE = \frac{TP}{TP + FN}
-  $$
+  ![SE](https://render.githubusercontent.com/render/math?math=SE%20%3D%20%5Cfrac%7BTP%7D%7BTP%20%2B%20FN%7D)
 
 - **Specificity (SP)**:
-  $$
-  SP = \frac{TN}{TN + FP}
-  $$
+  ![SP](https://render.githubusercontent.com/render/math?math=SP%20%3D%20%5Cfrac%7BTN%7D%7BTN%20%2B%20FP%7D)
 
 - **Positive Predictive Value (PPV)**:
-  $$
-  PPV = \frac{TP}{TP + FP}
-  $$
+  ![PPV](https://render.githubusercontent.com/render/math?math=PPV%20%3D%20%5Cfrac%7BTP%7D%7BTP%20%2B%20FP%7D)
 
 - **Negative Predictive Value (NPV)**:
-  $$
-  NPV = \frac{TN}{TN + FN}
-  $$
+  ![NPV](https://render.githubusercontent.com/render/math?math=NPV%20%3D%20%5Cfrac%7BTN%7D%7BTN%20%2B%20FN%7D)
 
 Where:
 - \( TP \) = True Positives

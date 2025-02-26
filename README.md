@@ -27,29 +27,29 @@ External validation using independent datasets supports that STopTox can serve a
 The performance of STopTox was assessed using the following metrics:
 
 - **Correct Classification Rate (CCR)**:
-  \[
+  $$
   CCR = \frac{TP + TN}{TP + TN + FP + FN}
-  \]
+  $$
 
 - **Sensitivity (SE)**:
-  \[
+  $$
   SE = \frac{TP}{TP + FN}
-  \]
+  $$
 
 - **Specificity (SP)**:
-  \[
+  $$
   SP = \frac{TN}{TN + FP}
-  \]
+  $$
 
 - **Positive Predictive Value (PPV)**:
-  \[
+  $$
   PPV = \frac{TP}{TP + FP}
-  \]
+  $$
 
 - **Negative Predictive Value (NPV)**:
-  \[
+  $$
   NPV = \frac{TN}{TN + FN}
-  \]
+  $$
 
 Where:
 - \( TP \) = True Positives
@@ -60,3 +60,4 @@ Where:
 ## References
 
 1. Borba JVB, Alves VM, Braga RC, et al. *STopTox: An In Silico Alternative to Animal Testing for Acute Systemic and Topical Toxicity.* Environmental Health Perspectives. 2022;130(2):027012.
+

@@ -20,7 +20,42 @@ STopTox leverages QSAR models to predict toxicity for endpoints such as:
 - Skin irritation/corrosion
 - Eye irritation/corrosion
 
-External validation using independent datasetssupports that STopTox can serve as a reliable alternative to animal testing, supporting regulatory efforts aligned with the principles of reducing, refining, and replacing animal use.
+External validation using independent datasets supports that STopTox can serve as a reliable alternative to animal testing, supporting regulatory efforts aligned with the principles of reducing, refining, and replacing animal use.
+
+## Key Equations
+
+The performance of STopTox was assessed using the following metrics:
+
+- **Correct Classification Rate (CCR)**:
+  \[
+  CCR = \frac{TP + TN}{TP + TN + FP + FN}
+  \]
+
+- **Sensitivity (SE)**:
+  \[
+  SE = \frac{TP}{TP + FN}
+  \]
+
+- **Specificity (SP)**:
+  \[
+  SP = \frac{TN}{TN + FP}
+  \]
+
+- **Positive Predictive Value (PPV)**:
+  \[
+  PPV = \frac{TP}{TP + FP}
+  \]
+
+- **Negative Predictive Value (NPV)**:
+  \[
+  NPV = \frac{TN}{TN + FN}
+  \]
+
+Where:
+- \( TP \) = True Positives
+- \( TN \) = True Negatives
+- \( FP \) = False Positives
+- \( FN \) = False Negatives
 
 ## References
 

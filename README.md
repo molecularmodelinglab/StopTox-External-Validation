@@ -5,10 +5,11 @@ This repository provides data and results supporting our study on evaluating the
 ## Repository Structure
 
 - **data/**  
-  Contains curated datasets and source materials from ICE, ChemIDPlus, and other repositories.
+  Contains curated datasets and source materials from the Integrated Chemical Environment (ICE).
 
 - **results/**  
   Includes an Excel file with calculated metrics (CCR, sensitivity, specificity, PPV, NPV) for each toxicity endpoint, following the methodology described in Borba et al.
+  Also contains predictions and scored using the OECD QSAR Toolbox.
 
 ## Overview
 

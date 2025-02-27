@@ -1,0 +1,9 @@
+C\C(\C=C\C=C(/C)\C=C\C(O)=O)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C(O)=O
+[Na+].CO[C@H]1\C=C\O[C@@]2(C)OC3=C(C2=O)C2=C(C(O)=C3C)C(O)=C(NC(=O)\C(C)=C/C=C/[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C=C2[O-]
+COC(=O)C1=C(O)C=CC=C1
+CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@@H]([C@H]2O)N(C)C)[C@](C)(O)C[C@@H](C)CN(C)[C@H](C)[C@@H](O)[C@]1(C)O
+CC(\C=C\C=C(C)\C=C\C(O)=O)=C\C=C/C=C(C)\C=C/C=C(C)\C=C\C(O)=O
+CCCCCCCCCCCCCCCC1=NC(C)(C)C(=O)O1
+CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C
+CC1=NC2=CC=CC=C2C(=O)O1
+OC1=CC=C(C=C1)C(=O)C=CC1=CC=CC=C1

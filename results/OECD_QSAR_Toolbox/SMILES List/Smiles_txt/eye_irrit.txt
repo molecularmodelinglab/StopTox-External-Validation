@@ -1,9 +1,0 @@
-C(C(CO)O)O
-CCCCCC
-C(C(=O)[O-])Cl.[Na+]
-CC1=CC(=C(C=C1)C)C
-C=CC1=CC=CC=C1
-CCC(=O)C
-CN(C)CCCCCCN(C)C
-C(=O)(C(Cl)(Cl)Cl)Cl
-C1=CC=C2C(=C1)C=CC=C2CC(=O)O
